@@ -1,0 +1,15 @@
+main {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10vh auto 0;
+}

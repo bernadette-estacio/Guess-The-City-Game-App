@@ -1,0 +1,35 @@
+nav {
+  min-height: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+
+  button {
+    background: transparent;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+  }
+
+  a,
+  span {
+    font-size: 1.5em;
+    color: #fff;
+    border-bottom: 3px solid #fff;
+    padding-top: 15px;
+    padding-bottom: 0;
+    height: 30px;
+    text-decoration: none;
+
+    @media (max-width: 400px) {
+      font-size: 1em;
+    }
+
+    &:hover,
+    &:focus {
+      border-bottom: 5px solid #fff;
+      outline: none;
+    }
+  }
+}

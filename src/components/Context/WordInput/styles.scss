@@ -1,0 +1,29 @@
+.word {
+  width: 95%;
+  display: inline-block;
+  margin-top: 20px;
+
+  input {
+    color: #063f56;
+    font-size: 1.5em;
+    margin-right: 10px;
+
+    @media (max-width: 400px) {
+      display: block;
+      margin: 10px auto 15px;
+    }
+  }
+
+  button {
+    background: #0a6e97;
+    color: #fff;
+    font-size: 1.5em;
+    padding: 5px 10px;
+    outline: none;
+
+    @media (max-width: 400px) {
+      display: block;
+      margin: 10px auto 15px;
+    }
+  }
+}

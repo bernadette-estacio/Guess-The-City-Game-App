@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+## **Guess the City Game**
+
+The objective of [Guess the City Game](https://bernadetteestacio.site/projects/guess-city-game/) is to guess the randomly selected city in the US. The player is given 6 tries to guess a letter. Then, the player has to guess the word.
+
+![Guess the City Game](https://bernadetteestacio.site/assets/img/portfolio/guess-the-city.png)
+
+- Single-page, responsive web app programmed with JavaScript
+- Utilizes CSS3 Animation and jQuery UI
+
+**Front-End:**
+
+- React
+- HTML5
+- CSS3
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

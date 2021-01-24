@@ -1,0 +1,11 @@
+.prompt {
+  color: #fff;
+  font-size: 1.75em;
+  display: block;
+  margin: 10vh 25px 0;
+  letter-spacing: 1.1px;
+
+  @media (max-width: 480px) {
+    font-size: 1.5em;
+  }
+}
