@@ -4,8 +4,7 @@ The objective of [Guess the City Game](https://bernadetteestacio.site/projects/g
 
 ![Guess the City Game](https://bernadetteestacio.site/assets/img/portfolio/guess-the-city.png)
 
-- Single-page, responsive web app programmed with JavaScript
-- Utilizes CSS3 Animation and jQuery UI
+- Single-page, responsive web app programmed with React
 
 **Front-End:**
 
